@@ -1,7 +1,5 @@
 package factory;
 
-import product.*;
-
 public abstract class MotorFactory {
     public Motor create(){
         Motor motor = createMotor();

@@ -1,4 +1,4 @@
-package product;
+package factory;
 
 public class PlainMotor implements Motor {
     @Override
